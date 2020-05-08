@@ -1,14 +1,3 @@
-/*
- * Example
- * arr is an array of object and arr must be binary image
- * width and height is integer
- * HuMoments obj1(arr,width,height);
- * obj1.calcOrgins();
- * obj1.calcInvariantMoments();
- * double moments[7];
- * double *moments = obj1.getInvariantMoments();
- */
-
 #ifndef HUMOMENTS_H
 #define HUMOMENTS_H
 
